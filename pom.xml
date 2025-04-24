@@ -74,7 +74,7 @@
                 <version>3.4.0</version>
                 <configuration>
                     <destDir>javadoc</destDir>
-                    <reportOutputDirectory>target/docs</reportOutputDirectory>
+                    <reportOutputDirectory>${project.build.directory}/docs</reportOutputDirectory>
                 </configuration>
             </plugin>
             <plugin>
