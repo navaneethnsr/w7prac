@@ -9,7 +9,7 @@ public class Contact {
     private String email;
     private String phone;
     /**
-     * Constructs a new Contact with the specified first name, last name, email, and phone number.
+     * Constructs a new Contact with the specified first name, last name, email, and phone numbers.
      * @param firstName The first name of the contact
      * @param lastName The last name of the contact
      * @param email The email of the contact
